@@ -1,1 +1,1 @@
-print("hello world");
+result = print("hello world");
