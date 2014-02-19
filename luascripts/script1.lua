@@ -1,1 +1,1 @@
-result = print("hello world");
+result = 4;
