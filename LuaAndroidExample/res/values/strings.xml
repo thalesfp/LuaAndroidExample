@@ -3,6 +3,8 @@
 
     <string name="app_name">LuaAndroidExample</string>
     <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">Please update!</string>
+    <string name="run">Run</string>
+    <string name="update">Update</string>
 
 </resources>
