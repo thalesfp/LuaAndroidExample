@@ -14,7 +14,7 @@ import android.app.Activity;
 
 public class MainActivity extends Activity {
 
-	private String URL = "http://ip-webservice/";
+	private String URL = "https://raw.github.com/thalesfp/LuaAndroidExample/master/luascripts/";
 	private String FILE = "is_rooted.lua";
 	
 	public LuaState L;
